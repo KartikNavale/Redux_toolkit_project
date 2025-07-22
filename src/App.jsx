@@ -50,7 +50,7 @@ function App() {
           </button>
         </div>
 
-        <div>
+        <div className="mt-2">
           <input
           className="w-64 h-12 px-4 py-2 border border-gray-300 rounded"
             type="number"
